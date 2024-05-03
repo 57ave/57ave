@@ -1,5 +1,5 @@
 # Hey I'm Gustave
-I am currently student at Epitech Paris and work as R&D at Poc Innovation
+I'm currently studying at Epitech Paris and work as R&D at Poc Innovation
 
 <p>
   <a href="https://www.epitech.eu">
