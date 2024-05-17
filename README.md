@@ -17,7 +17,7 @@ I'm currently studying at Epitech Paris and work as R&D at Poc Innovation
 
 ## My Stats
  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=57ave&show_icons=true&theme=synthwave" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=57ave&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=57ave&show_icons=true&theme=synthwave" width=46% />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=57ave&theme=synthwave" width=49% />
    
  </div>
