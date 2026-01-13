@@ -16,8 +16,7 @@ I'm currently studying at Epitech Paris and work as R&D at Poc Innovation
 <a href="https://rustlang.org" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="Rust" width="40" height="40"/> 
 
 ## My Stats
- <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=57ave&show_icons=true&theme=synthwave" width=46% />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=57ave&theme=synthwave" width=49% />
-   
- </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=57ave&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="46%" />
+  <img src="https://streak-stats.demolab.com?user=57ave&theme=synthwave&hide_border=true" width="49%" />
+</div>
