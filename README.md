@@ -16,7 +16,5 @@ I'm currently studying at Epitech Paris and work as R&D at Poc Innovation
 <a href="https://rustlang.org" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="Rust" width="40" height="40"/> 
 
 ## My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=57ave&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=57ave&layout=compact&theme=tokyonight" width="48%" />
-</div>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=57ave)](https://github.com/57ave/github-readme-stats)
